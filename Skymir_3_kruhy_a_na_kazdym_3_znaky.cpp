@@ -5,7 +5,7 @@
 using namespace std;
 
 /*
-reseni pro RPG hru Skyrim, otevreni dvery ktere maji tri kruhy a na kazdem kruhu 3 symboly
+reseni pro RPG hry Skyrim, otevreni dvery ktere maji tri kruhy a na kazdem kruhu 3 symboly
 vsechny 3 kruhy jsou vlastne stejne, jenom se vzajemne lisi velikosti
 vypise vsechny kombinace, vysledek je 3 ^ 3 = 27
 */
@@ -13,8 +13,8 @@ vypise vsechny kombinace, vysledek je 3 ^ 3 = 27
 int main(){	
 
 vector<string> symboly_na_kruhach = {
-"mura",
-"sova",
+" mura",
+" sova",
 "medved"
 };
 
@@ -24,7 +24,7 @@ size_t d_symboly_na_kruhach = symboly_na_kruhach.size();
 string file_name = "Skymir_3_kruhy_a_na_kazdym_3_znaky.txt";
 string out, out_2;
 string hlaska_1 = " 3 kruhy a na kazdy kruhu 3 symboly";
-string hlaska_2 = "     nejvetsi stredni najmensi";
+string hlaska_2 = "     nejvetsi  stredni  nejmensi";
 int kombinace = 1, velky_kruh, sterdni_kruh, maly_kruh;
 
 
@@ -57,7 +57,7 @@ out_2 = "0" + out; // do 99
 out_2 = out;	
 }
 
-out_2 += " -   ";
+out_2 += " -  ";
 out_2 += symboly_na_kruhach[velky_kruh];
 out_2 += "     ";
 out_2 += symboly_na_kruhach[sterdni_kruh];

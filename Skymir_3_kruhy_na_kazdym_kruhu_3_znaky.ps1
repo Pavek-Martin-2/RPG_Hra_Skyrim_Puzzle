@@ -9,8 +9,8 @@
 
 # obsah vsech 3 kruhu je stejny, tzn. ze staci jen jedno pole
 $symboly_na_kruhach = @(
-"mura",
-"sova",
+" mura",
+" sova",
 "medved"
 )
 
@@ -40,11 +40,11 @@ $out = "0" + [string] $kombinace
 $out = [string] $kombinace
 }
 
-$out += " -   "
+$out += " -  "
 $out += $symboly_na_kruhach[$velky_kruh]
-$out += "     "
+$out += "    "
 $out += $symboly_na_kruhach[$sterdni_kruh]
-$out += "     "
+$out += "    "
 $out += $symboly_na_kruhach[$maly_kruh]
 echo $out
 $pole_output += $out
