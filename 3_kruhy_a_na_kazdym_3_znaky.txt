@@ -1,0 +1,29 @@
+ 3 kruhy a na kazdy kruhu 3 symboly
+     nejvetsi stredni najmensi
+01 -   mura     mura     mura
+02 -   mura     mura     sova
+03 -   mura     mura     medved
+04 -   mura     sova     mura
+05 -   mura     sova     sova
+06 -   mura     sova     medved
+07 -   mura     medved     mura
+08 -   mura     medved     sova
+09 -   mura     medved     medved
+10 -   sova     mura     mura
+11 -   sova     mura     sova
+12 -   sova     mura     medved
+13 -   sova     sova     mura
+14 -   sova     sova     sova
+15 -   sova     sova     medved
+16 -   sova     medved     mura
+17 -   sova     medved     sova
+18 -   sova     medved     medved
+19 -   medved     mura     mura
+20 -   medved     mura     sova
+21 -   medved     mura     medved
+22 -   medved     sova     mura
+23 -   medved     sova     sova
+24 -   medved     sova     medved
+25 -   medved     medved     mura
+26 -   medved     medved     sova
+27 -   medved     medved     medved

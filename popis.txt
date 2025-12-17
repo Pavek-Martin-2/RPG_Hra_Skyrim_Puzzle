@@ -1,0 +1,15 @@
+V RPG hře Skyrim, (vyšla na Xbox a PlayStation), je puzzle kdy je potřeba otevřít kruhové dveře, sestavení tří správně po sobě jdoucích obrazkových symbolů, viz. adresář obrazky, utilita vypíše všechny existující kombinace
+
+další puzzle je že jsou 4 kameny, trojuhelníkového pudorysu a na každé straně mají symbol
+a musejí správně natočit, viz. obrázky
+
+dále jsem ve hře našel puzzle že jsou 4 páky keré s musí spravně nastavit
+zde pomohla binární soustava 0001, 0010, 0011, 0100, 0101 ... 1111
+pozn. hra zde byla docela milosrdna a kombinace na otevreni dveri byla myslim 0011 coz je na 
+zacatku ale i tak je kombnaci pouze 16 a páky jsou třeba na rozdíl od kamenu hned vedle sebe
+
+poslední puzzle které jsem ve hře zatím řešil bylo zmáčknutí 4 tlačitek ve spávném pořadí
+musej se zmáčkonut všechny 4 tlačítka a každé jenom jednou tady byla situace složitější
+protože tlačítko nemá na rozdíl od páky dvě polohy např. on/off
+
+
