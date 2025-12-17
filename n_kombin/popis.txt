@@ -1,0 +1,3 @@
+puzzle kde bylo potřeba nastavit 4 páky do správné polohy tak aby se otevřeli dveře z pokladem
+pro jistotu jsem udela univerzalni program i pro jine varinty kdyby bylo třeba 5 pák
+pro 4 páky je kombinací 16, každá další páka počet zdvojnásobuje
