@@ -1,0 +1,25 @@
+pro uplnost pro 3 tlacitka plati:
+123
+132
+213
+231
+312
+321
+-------------
+1 tlacitko = 1 kombinace
+2 tlacitka = 2 kombinace
+3 tlacitka = 6 kombinaci
+4 tlacitka = 24 kombinaci
+5 tlacitek = 120 kombinaci
+6 tlacitek = 720 kombinaci
+
+1 tlacitko 1*1 = 1
+2 tlacitka 2*1 = 2
+3 tlacitka 3*2 = 6 
+4 tlacitka 4*6 = 24
+5 tlacitka 5*24 = 120
+6 tlacitka 6*120 = 720
+
+takze plati ze je to vzdycky (predchozi pocet kombinaci * nasobek+1 ) vzdy pri zvyseni poctu tlacitek o 1
+pro 7 tlacitek by teda melo byt 7*720 tj. 5040 moznosti
+
